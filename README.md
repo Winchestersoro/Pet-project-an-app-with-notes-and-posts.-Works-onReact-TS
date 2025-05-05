@@ -1,4 +1,11 @@
+
+
 # React + TypeScript + Vite
+
+Для доступа к главной странице введите пароль admin и тот же логин. 
+Упор сделан не на эстетическую составляющую, а на демонстрацию правильной работы хуков и владением фреймворком.
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
