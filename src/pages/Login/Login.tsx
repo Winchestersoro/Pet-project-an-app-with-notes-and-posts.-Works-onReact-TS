@@ -10,7 +10,7 @@ const Login = () => {
     const [password, setPassword] = useState('');
     const login = (e: FormEvent<HTMLFormElement>) => {
         
-        e.preventDefault()
+        e.preventDefault()  
 
         if (username === 'admin' && password === 'admin') {
             setIsAuth(true);

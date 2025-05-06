@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Winchestersoro.github.io/Pet-project-an-app-with-notes-and-posts.-Works-onReact-TS",
+  "homepage": "https://winchestersoro.github.io/Pet-projectWorks-onReact-TS/",
   "type": "module",
   "scripts": {
     "dev": "vite",
